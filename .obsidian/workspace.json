@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "早餐篇/Untitled.md",
+                "file": "早餐篇/早餐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "早餐篇/Untitled.md",
+                "file": "早餐篇/早餐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "早餐篇/Untitled.md",
+                "file": "早餐篇/早餐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "早餐篇/Untitled.md"
+                "file": "早餐篇/早餐.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +149,6 @@
   "active": "2157e903ca469647",
   "lastOpenFiles": [
     "README.md",
-    "早餐篇/Untitled.md"
+    "早餐篇/早餐.md"
   ]
 }
